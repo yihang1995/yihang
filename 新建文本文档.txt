@@ -1,0 +1,22 @@
+一、新增了三个属性选择器
+^=、$=、*=
+2、border-image
+3、border-radius
+4、box-shadow
+5、text-shadow
+6、background-size
+7、background-origin
+8、word-wrap 文本换行
+二、2D属性
+rotate
+scale
+skew
+translate
+三、3D
+rotateX
+rotateY
+translateZ
+touch-callout:none 长按时不触发系统的菜单，在图片上加这个属性，可禁止下载图片
+
+CSS3语言开发是朝着模块化发展的。
+以前的规范作为一个模块实在是太庞大而且比较复杂，所以CSS3把它分解为一些小的模块，CSS3能完全向后兼容。
